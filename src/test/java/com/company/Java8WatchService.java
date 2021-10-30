@@ -164,6 +164,5 @@ public class Java8WatchService {
                 if (dirWatchers.isEmpty()) break;
             }
         }
-
     }
 }
